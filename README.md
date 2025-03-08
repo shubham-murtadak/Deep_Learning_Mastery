@@ -20,5 +20,6 @@ This repository contains implementations of fundamental deep learning concepts, 
 - **[09] Early Stopping** - [Link](./09_Early_Stopping/)  
 - **[10] Feature Scaling** - [Link](./10_Feature_Scalling/)  
 - **[11] Dropout** - [Link](./11_Dropout/)  
+- **[12] Regularization** - [Link](./12_Regularization/)  
 
 More topics will be added as we move forward. 🚀  
