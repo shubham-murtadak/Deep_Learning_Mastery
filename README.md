@@ -21,5 +21,16 @@ This repository contains implementations of fundamental deep learning concepts, 
 - **[10] Feature Scaling** - [Link](./10_Feature_Scalling/)  
 - **[11] Dropout** - [Link](./11_Dropout/)  
 - **[12] Regularization** - [Link](./12_Regularization/)  
+- **[13] Weight Initialization Techniques** - [Link](./13_Weight_Initialization_Techniques/)  
+- **[14] Batch Normalization** - [Link](./14_Batch_Normalization/) 
+
+### 🔹 Convolutional Neural Network (CNN's)
+- **[15] Convolutional Neural Network** - [Link](./15_CNN/) 
+- **[16] Transfer Learning** - [Link](./16_Transfer_Learning/) 
+- **[17] Keras Functional API** - [Link](./17_Keras_Functional_API/) 
+
+
+### 🔹 Recurant Neural Network (RNN's)
+- **[18] Sentiment Analysis using RNN** - [Link](./18_RNN_Sentimnet_Analysis/) 
 
 More topics will be added as we move forward. 🚀  
